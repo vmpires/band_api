@@ -1,3 +1,3 @@
 # Bands API
 
-### Band API in Ruby on Rails for practice
+### Ruby on Rails API practice
